@@ -164,7 +164,7 @@ section h2{
     max-width: 80%;
     margin: 20px 0px;
     border-radius: 10px;
-    transition: .5s;
+    transition: 2s;
     overflow: hidden;
 }
 .match-img2 {

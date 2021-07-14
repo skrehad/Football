@@ -67,6 +67,10 @@ button a{
 .banner img{
     width: 556px;
     height: 440px;
+    transition: 2s;
+}
+.banner img:hover{
+    transform: scale(0.8);
 }
 
 /* main seation */
